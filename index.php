@@ -9,4 +9,6 @@ echo "I am going to add this line from sublime Ok";
 
 echo "hello";die;
 
+exit();
+
 ?>
