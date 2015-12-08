@@ -1,0 +1,13 @@
+<?php
+
+echo "this is Abdul Haseeb";
+
+<<<<<<< HEAD
+echo "I am going to add this line from sublime";
+
+?>
+=======
+echo "Added this line from git";
+
+?>
+>>>>>>> 96a760b0b3662c8b60db93ae52e658e4cef66546
